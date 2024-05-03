@@ -22,8 +22,8 @@ This web-based job portal will utilize:
 
 ## **Hardware/Software Requirements**
 
-- **Frontend Development:** React
-- **Backend Database Management:** Supabase (SQL)
+- **Front-end Development:** React
+- **Back-end Database Management:** Supabase (SQL)
 - **Version Control:** GitHub
 - **Development Environment:**
   - IDE suitable for React development
